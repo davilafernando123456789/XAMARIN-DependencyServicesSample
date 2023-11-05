@@ -26,7 +26,7 @@ namespace DependencyServicesSample
             }
             else
             {
-                resultLabel.Text = "El escáner QR no está disponible en este dispositivo.";
+                resultLabel.Text = "El escáner QR no está disponible en este dispositivo .";
             }
         }
     }
